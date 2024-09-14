@@ -32,7 +32,7 @@ If you're interested in working together, feel free to reach out! You can fill o
 
 ## ⚡️ Bonus Points
 The portfolio is deployed on:
-- [GitHub Pages](#) 
+- [https://ijadele.github.io/My-portfolio/](#) 
 
 ## 🏆 Ready to Compete?
 
