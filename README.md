@@ -23,23 +23,23 @@ I hold a degree in Physiology, but my real passion lies in tech. I am expanding 
 
 ## 🛠 Projects
 Here are some projects I’ve worked on:
-- **Project 1**: [https://aquamarine-malasada-5254ae.netlify.app/](#)
-- **Project 2**: [https://ijadele.github.io/Basketball_ScoreBoard/](#)
-- **Project 3**: [https://generate-password-0a0b08.netlify.app/](#)
+- **Project 1**: [Website_Tour_Guide](https://aquamarine-malasada-5254ae.netlify.app/)
+- **Project 2**: [Basketball_Scoreboard](https://ijadele.github.io/Basketball_ScoreBoard/)
+- **Project 3**: [Generate Password App](https://generate-password-0a0b08.netlify.app/)
 
 ## 📬 Get In Touch
 If you're interested in working together, feel free to reach out! You can fill out the [contact form](#) or connect with me via [LinkedIn](#) or [Twitter](#).
 
 ## ⚡️ Bonus Points
 The portfolio is deployed on:
-- [https://ijadele.github.io/My-portfolio/](#) 
+- [GitHub](https://ijadele.github.io/My-portfolio/) 
 
 ## 🏆 Ready to Compete?
 
 This portfolio challenge allowed me to demonstrate my foundation in HTML and CSS, and I’ve added my flair to make it uniquely mine. Explore, and feel free to provide feedback!
 
 ### Submission
-You can find the complete code for this project here [https://github.com/Ijadele/My-portfolio.git](#).
+You can find the complete code for this project [here](https://github.com/Ijadele/My-portfolio.git).
 
 ---
 
