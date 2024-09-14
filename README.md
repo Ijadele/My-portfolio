@@ -28,7 +28,7 @@ Here are some projects I’ve worked on:
 - **Project 3**: [Generate Password App](https://generate-password-0a0b08.netlify.app/)
 
 ## 📬 Get In Touch
-If you're interested in working together, feel free to reach out! You can fill out the [contact form](#) or connect with me via [LinkedIn](#) or [Twitter](#).
+If you're interested in working together, feel free to reach out! You can fill out the [contact form](#) or connect with me via [LinkedIn](https://www.linkedin.com/in/opeyemi-ijadele) or [Twitter](https://twitter.com/IjadeleO).
 
 ## ⚡️ Bonus Points
 The portfolio is deployed on:
