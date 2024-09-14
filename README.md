@@ -12,7 +12,7 @@ Here are the technologies I’ve used to create this portfolio and the ones I am
 I am a passionate web developer with a background in Front-End development, creating sleek, user-friendly designs. I love bringing ideas to life using code and am constantly learning to expand my skills. What drives me is the excitement of solving problems and seeing my work impact users. 
 
 ## 🎓 Educational Background
-I hold a degree in Physiology, but my real passion lies in tech. I am expanding my knowledge through various software engineering programs, focusing on web development. You can view or download my CV [https://drive.google.com/file/d/1cuDoNj0csQeFz3rC-SJwzNaFrwx9f-2v/view?usp=drive_link](#).
+I hold a degree in Physiology, but my real passion lies in tech. I am expanding my knowledge through various software engineering programs, focusing on web development. You can view or download my CV [here](https://drive.google.com/file/d/1cuDoNj0csQeFz3rC-SJwzNaFrwx9f-2v/view?usp=drive_link).
 
 ## 💡 Interests
 - Coding and programming 💻
